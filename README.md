@@ -1,10 +1,10 @@
-# AirBnB Data Analysis Dashboard 📊
+# AirBnB Data Analysis Dashboard
 
-### 🚀 [Click Here for the Live Interactive Dashboard](https://public.tableau.com/app/profile/dev.adapa/viz/AirBnBFullProject_17612127068370/Dashboard1?publish=yes)
+### [Click Here for the Live Interactive Dashboard](https://public.tableau.com/app/profile/dev.adapa/viz/AirBnBFullProject_17612127068370/Dashboard1?publish=yes)
 
 ---
 
-### 📷 Dashboard Preview
+### Dashboard Preview
 <img width="1838" height="730" alt="Dashboard 1" src="https://github.com/user-attachments/assets/53eb382b-c3e0-46e9-9818-af5d6251ee4b" />
 
 
@@ -24,7 +24,18 @@ This dashboard answers key business questions, such as:
 ---
 
 ## 2. Data Source
-The data was a `.csv` file containing 3815 rows of AirBnB listings. The data included fields like `neighbourhood`, `room_type`, `price`, `zipcode`, `latitude`, `longitude`, and `number_of_reviews`.
+The data used for this dashboard analysis is publicly available from **Inside Airbnb**.
+
+* **Website:** [Inside Airbnb](https://insideairbnb.com/get-the-data/)
+* **Dataset:** The specific file used contains **3,815 rows** of Airbnb listings.
+* **Key Fields Used:** The analysis primarily focused on the following columns:
+    * `neighbourhood`
+    * `room_type`
+    * `price`
+    * `zipcode`
+    * `latitude`
+    * `longitude`
+    * `number_of_reviews`
 
 Data was cleaned in Excel to remove null values and standardize room_type entries.
 
